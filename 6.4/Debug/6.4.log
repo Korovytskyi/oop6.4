@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\pr\6.4\6.4\main.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+E:\pr\6.4\6.4\main.cpp(33): message : see reference to function template instantiation 'void print<int>(T *,size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+  6.4.vcxproj -> E:\pr\6.4\Debug\6.4.exe
